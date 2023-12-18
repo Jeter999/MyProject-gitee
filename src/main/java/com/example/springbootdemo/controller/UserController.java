@@ -23,7 +23,14 @@ public class UserController {
         System.out.println("jjj");
         System.out.println("2222");
         System.out.println("2222");
+        User user = new User();
+
+
         return list;
+    }
+
+    public static void main(String[] args) {
+        System.out.println();
     }
 }
 
